@@ -71,4 +71,4 @@ Please check the repository for licensing information.
 
 ## Author
 
-Manas Sinha 
+Manas Sinha  
