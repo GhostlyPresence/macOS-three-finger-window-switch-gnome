@@ -16,7 +16,7 @@ This extension brings the familiar macOS three-finger window switching experienc
 
 1. Clone or download this repository to your GNOME extensions directory:
    ```bash
-   git clone https://github.com/GhostlyPresence/macOS-three-finger-window-switch-gnome ~/.local/share/gnome-shell/extensions/macOS-three-finger-window-switch@ghostly
+   git clone https://github.com/GhostlyPresence/macOS-three-finger-window-switch-gnome ~/.local/share/gnome-shell/extensions/macOS-three-finger-window-switch
    ```
 
 2. Restart GNOME Shell:
@@ -71,4 +71,4 @@ Please check the repository for licensing information.
 
 ## Author
 
-GhostlyPresence
+Manas Sinha 
