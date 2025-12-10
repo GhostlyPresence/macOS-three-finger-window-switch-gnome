@@ -1,0 +1,6 @@
+{
+  "uuid": "macOS-three-finger-window-switch",
+  "name": "Maximize to Workspace",
+  "description": "Maximize window and move it to next workspace",
+  "shell-version": ["46"]
+}
